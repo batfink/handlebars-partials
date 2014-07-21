@@ -2,7 +2,8 @@
     "author":"Victor Nystad",
     "name":"handlebars-partials",
     "version":"0.0.0",
-    "devDependencies": {
+    "devDependencies": {},
+    "dependencies": {
         "path": "~0.4.9"
     }
 }
